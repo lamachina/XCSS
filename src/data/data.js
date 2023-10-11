@@ -1,7 +1,7 @@
 const data = [
   {
-    title: "Card 1",
-    imageURL: "/xcss_hd/1.png",
+    title: "XCSS",
+    imageURL: "/xcss_hd/2.png",
     design: "Design 1",
     colors: "Color A, Color B"
   },
