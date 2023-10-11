@@ -1,130 +1,125 @@
 const data = [
   {
-    title: "XCSS",
+    title: "1",
     imageURL: "/xcss_hd/2.png",
-    design: "Design 1",
-    colors: "Color A, Color B"
+    design: "Portal Prologue",
+    colors: "Azure Crimson"
   },
   {
-    title: "Card 2",
-    imageURL: "/xcss_hd/2.png",
-    design: "Design 2",
-    colors: "Color C, Color D"
-  },
-  {
-    title: "Card 3",
+    title: "2",
     imageURL: "/xcss_hd/3.png",
-    design: "Design 3",
-    colors: "Color E, Color F"
+    design: "Portal Prologue",
+    colors: "Azure Crimson"
   },
   {
-    title: "Card 4",
+    title: "3",
     imageURL: "/xcss_hd/4.png",
-    design: "Design 4",
-    colors: "Color G, Color H"
+    design: "Portal Prologue",
+    colors: "Azure Crimson"
   },
   {
-    title: "Card 5",
+    title: "4",
     imageURL: "/xcss_hd/5.png",
-    design: "Design 5",
-    colors: "Color I, Color J"
+    design: "Portal Prologue",
+    colors: "Blush Velvet Bliss"
   },
   {
-    title: "Card 6",
+    title: "5",
     imageURL: "/xcss_hd/6.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Blush Velvet Bliss"
   },
   {
-    title: "Card 7",
+    title: "6",
     imageURL: "/xcss_hd/7.png",
-    design: "Design 7",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Golden Satoshi Luster"
   },
   {
-    title: "Card 8",
+    title: "7",
     imageURL: "/xcss_hd/8.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Golden Satoshi Luster"
+
   },
   {
-    title: "Card 6",
+    title: "8",
     imageURL: "/xcss_hd/9.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Atomicals Nature Illusion"
   },
   {
-    title: "Card 6",
+    title: "9",
     imageURL: "/xcss_hd/10.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Atomicals Nature Illusion"
   },
   {
-    title: "Card 6",
+    title: "10",
     imageURL: "/xcss_hd/11.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Monochrome Elegance"
   },
   {
-    title: "Card 6",
+    title: "11",
     imageURL: "/xcss_hd/12.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "Portal Prologue",
+    colors: "Monochrome Elegance"
   },
   {
-    title: "Card 6",
+    title: "12",
     imageURL: "/xcss_hd/13.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "La Vista",
+    colors: "Azure Crimson"
   },
   {
-    title: "Card 6",
+    title: "13",
     imageURL: "/xcss_hd/14.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "La Vista",
+    colors: "Blush Velvet Bliss"
   },
   {
-    title: "Card 6",
+    title: "14",
     imageURL: "/xcss_hd/15.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "La Vista",
+    colors: "Monochrome Elegance"
   },
   {
-    title: "Card 6",
+    title: "15",
     imageURL: "/xcss_hd/16.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "La Vista",
+    colors: "Atomicals Nature Illusion"
   },
   {
-    title: "Card 6",
+    title: "16",
     imageURL: "/xcss_hd/17.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "La Vista",
+    colors: "Golden Satoshi Luster"
   },
   {
-    title: "Card 6",
+    title: "17",
     imageURL: "/xcss_hd/18.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "X Essence",
+    colors: "Azure Crimson"
   },
   {
-    title: "Card 6",
+    title: "18",
     imageURL: "/xcss_hd/19.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "X Essence",
+    colors: "Blush Velvet Bliss"
   },
   {
-    title: "Card 6",
+    title: "19",
     imageURL: "/xcss_hd/20.png",
-    design: "Design 6",
-    colors: "Color K, Color L"
+    design: "X Essence",
+    colors: "Atomicals Nature Illusion"
   },
   // ... Continue this pattern
   {
-    title: "Card 21",
+    title: "20",
     imageURL: "/xcss_hd/21.png",
-    design: "Design 21",
-    colors: "Color Y, Color Z"
+    design: "X Essence",
+    colors: "Golden Satoshi Luster"
   }
 ];
 

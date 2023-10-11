@@ -12,10 +12,10 @@ const CardXcss = ({ data }) => {
             </Heading>
             <Image maxH='550px' src={data.imageURL} alt={data.title} objectFit="cover" mb={4} onContextMenu={handleRightClick} />
             <VStack spacing={2} alignItems="start">
-                <Text color='whiteAlpha.900'><strong>Design:</strong> {data.design}</Text>
-                <Text color='whiteAlpha.900'><strong>Colors:</strong> {data.colors}</Text>
+                <Text color='whiteAlpha.900'>Design: <strong>{data.design}</strong></Text>
+                <Text color='whiteAlpha.900'>Colors:<strong> {data.colors}</strong></Text>
             </VStack>
-            <Button bg='whiteAlpha.300' mt={4} colorScheme="blue" isFullWidth>
+            <Button bg='whiteAlpha.300' mt={4} colorScheme="whiteAlpha" isFullWidth>
                 Download
             </Button>
         </Box>
