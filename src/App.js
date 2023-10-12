@@ -24,7 +24,7 @@ const App = () => {
               Or maybe, it's all just pretentious drivel.
             </Text>
 
-            <Text textAlign='end' py={16} color='whiteAlpha.500' >available at Block #811811</Text>
+            <Text textAlign='end' py={16} color='whiteAlpha.500' >MINTED OUT</Text>
 
             {/* <CardSlider dataSet={data} /> */}
           </Box>
