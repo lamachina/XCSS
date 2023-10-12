@@ -12,7 +12,7 @@ const App = () => {
       <Container maxW="container.xl" p={4}>
         <Fade in={true}>
           <Box borderRadius="md" fontSize={fontSize} w="full" boxShadow="lg" p={5} bg="black" >
-            {/*   <Heading color='whiteAlpha.900' py={'4rem'}>XCSS</Heading>
+            <Heading color='whiteAlpha.900' py={'4rem'}>XCSS</Heading>
 
             <Text color='whiteAlpha.800'>
               All we had to draw from. <br></br>
@@ -24,9 +24,9 @@ const App = () => {
               Or maybe, it's all just pretentious drivel.
             </Text>
 
-            <Text textAlign='end' py={16} color='whiteAlpha.500' >available at Block #811811</Text> */}
+            <Text textAlign='end' py={16} color='whiteAlpha.500' >available at Block #811811</Text>
 
-            <CardSlider dataSet={data} />
+            {/* <CardSlider dataSet={data} /> */}
           </Box>
         </Fade>
       </Container>
