@@ -5,17 +5,24 @@ const CardXcss = ({ data }) => {
         event.preventDefault();
         alert("Download the compressed image using the download button.");
     };
+    const handleDownloadClick = () => {
+        // Create an anchor element
+        const link = document.createElement("a");
+        link.href = data.imageDL; // Set the image URL as the href
+        link.download = "xcss"; // Set the download filename
+
+        // Trigger a click event on the anchor element to initiate the download
+        link.click();
+    };
+
     return (
         <Box display='flex' alignItems='center' justifyContent='center' flexDirection='column' overflow="hidden" p={4}>
-            <Heading color='whiteAlpha.900' size="md" mb={2}>
-                {data.title}
-            </Heading>
             <Image maxH='550px' src={data.imageURL} alt={data.title} objectFit="cover" mb={4} onContextMenu={handleRightClick} />
             <VStack spacing={2} alignItems="start">
                 <Text color='whiteAlpha.900'>Design: <strong>{data.design}</strong></Text>
                 <Text color='whiteAlpha.900'>Colors:<strong> {data.colors}</strong></Text>
             </VStack>
-            <Button bg='whiteAlpha.300' mt={4} colorScheme="whiteAlpha" isFullWidth>
+            <Button bg='whiteAlpha.300' mt={4} colorScheme="whiteAlpha" isFullWidth onClick={handleDownloadClick}>
                 Download
             </Button>
         </Box>
