@@ -105,7 +105,7 @@ function DataFetcher() {
         <Flex direction='column' gap={4} justifyContent='center' alignItems='center'>
             {!isDiscoverClicked && (
 
-                <Stack  >
+                <Stack display={'flex'} alignItems={'center'}>
                     <WelcomeSection />
                     <Button onClick={() => {
                         setIsXCSSClicked(true);
