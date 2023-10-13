@@ -43,7 +43,7 @@ const WelcomeSection = () => {
 
                 </Text>
                 <Text fontSize={'md'} color={'grey'}>
-                    Mint opened at block 811811. Minted closed at block 811822.
+                    Mint opened at block 811811. Mint closed at block 811822.
                 </Text>
                 <Text fontSize={'xl'} py={6}>
 
