@@ -23,19 +23,15 @@ const WelcomeSection = () => {
         <Fade in={true}>
 
             <Box p={6}
-                visibility={isVisible ? 'visible' : 'hidden'} // Add class names for styling
-                position="fixed"
-                top="0"
-                left="0"
                 width="100%"
                 height="100%"
                 display="flex"
                 flexDir="column"
                 justifyContent="center"
                 alignItems="start"
-                backgroundColor="rgba(255, 255, 255, 0.9)"
                 transition="opacity 0.7s"
                 gap={4}
+                color={'whiteAlpha.800'}
             >
 
                 <Text fontSize={'2xl'} fontWeight={700}>

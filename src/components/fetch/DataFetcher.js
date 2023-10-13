@@ -104,21 +104,22 @@ function DataFetcher() {
     return (
         <Flex direction='column' gap={4} justifyContent='center' alignItems='center'>
             {!isDiscoverClicked && (
-                <Button size='xxl' variant='ghost' colorScheme='whiteAlpha' onClick={() => {
-                    setIsXCSSClicked(true);
-                    fetchMultiplePages();
-                    window.scrollTo(0, 0); // Scroll to the top when the button is clicked
-                }}>XCSS</Button>
+
+                <Stack  >
+                    <WelcomeSection />
+                    <Button onClick={() => {
+                        setIsXCSSClicked(true);
+                        fetchMultiplePages();
+                        window.scrollTo(0, 0); // Scroll to the top when the button is clicked
+                    }}>Discover</Button>
+                </Stack>
             )}
 
-            {isXCSSClicked && (
-                <WelcomeSection />
-            )}
-            <Flex w='100%' h='100%' flexWrap='wrap' gap={8} justifyContent='center' alignItems='center'>
+            <Flex w='100%' h='100%' flexWrap='wrap' gap={8} justifyContent='center' alignItems='center' p={2}>
                 {finalData.slice(0, 83).map((item, index) => (
                     <Flex flexDirection='column' key={item.atomical_id} justifyContent='center' alignItems='center' gap={3}>
                         {item.imageURL && (
-                            <Fade in={hasScrolled}>
+                            <Fade in={isXCSSClicked}>
 
                                 {/*   <Text color='whiteAlpha.800'>
                                     Index: {index}
