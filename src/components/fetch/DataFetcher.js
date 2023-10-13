@@ -1,9 +1,11 @@
-import { Button, Divider, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerHeader, DrawerOverlay, Flex, Progress, Stack, Text } from '@chakra-ui/react';
+import { Button, Divider, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerHeader, DrawerOverlay, Fade, Flex, Progress, Stack, Text } from '@chakra-ui/react';
 import React, { useEffect, useState } from 'react';
 import { Buffer } from 'buffer';
 import axios from 'axios';
 import { StarIcon } from '@chakra-ui/icons';
 import ItemDetails from './ItemDetails';
+import dataMintOut from '../../data/mintOut';
+import WelcomeSection from './WelcomeXcss';
 
 function hexToDataURL(hexString, mimeType = 'image/png') {
     const bytes = Buffer.from(hexString, 'hex');
@@ -20,6 +22,24 @@ function DataFetcher() {
     const [progress, setProgress] = useState(0);
     const [selectedItem, setSelectedItem] = useState(null); // To store the selected item
     const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+    const [isDiscoverClicked, setIsDiscoverClicked] = useState(false);
+    const [isXCSSClicked, setIsXCSSClicked] = useState(false);
+    const [hasScrolled, setHasScrolled] = useState(false);
+
+
+    const handleScroll = () => {
+        if (window.scrollY > 0) {
+            setHasScrolled(true);
+        }
+    };
+
+    useEffect(() => {
+        window.addEventListener('scroll', handleScroll);
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+        };
+    }, []);
+
 
     // Function to open the drawer for the selected item
     const openDrawer = (item) => {
@@ -63,33 +83,43 @@ function DataFetcher() {
     };
 
     const fetchMultiplePages = async () => {
-        const finalDataArray = [];
+        /* const finalDataArray = [];
         for (let page = pageNumber; page < pageNumber + 300; page++) {
             const filteredData = await fetchDataPage(page);
             finalDataArray.push(...filteredData);
             const progressValue = ((page - pageNumber + 1) / 300) * 100;
             setProgress(progressValue);
-        }
-        const finalDataWithImages = transformImageUrls(finalDataArray);
+        } */
+        const finalDataWithImages = transformImageUrls(dataMintOut);
 
         const finalDataWithImagesFiltered = finalDataWithImages.filter(item => item.imageURL);
 
         finalDataWithImagesFiltered.sort((a, b) => a.atomical_number - b.atomical_number);
         setFinalData(finalDataWithImagesFiltered);
+        setIsDiscoverClicked(true);
         console.log(finalDataWithImagesFiltered);
     };
 
 
     return (
         <Flex direction='column' gap={4} justifyContent='center' alignItems='center'>
-            {finalData.length < 80 && (
-                <><Button size='md' variant='outline' colorScheme='whiteAlpha' onClick={fetchMultiplePages}>Discover</Button><Progress w='100%' value={progress} max={100}></Progress></>)}
-            <Flex w='100%' h='100%' flexWrap='wrap' gap={8} justifyContent='center' alignItems='center'>
+            {!isDiscoverClicked && (
+                <Button size='xxl' variant='ghost' colorScheme='whiteAlpha' onClick={() => {
+                    setIsXCSSClicked(true);
+                    fetchMultiplePages();
+                    window.scrollTo(0, 0); // Scroll to the top when the button is clicked
+                }}>XCSS</Button>
+            )}
 
-                {finalData.slice(0, 81).map((item, index) => (
+            {isXCSSClicked && (
+                <WelcomeSection />
+            )}
+            <Flex w='100%' h='100%' flexWrap='wrap' gap={8} justifyContent='center' alignItems='center'>
+                {finalData.slice(0, 83).map((item, index) => (
                     <Flex flexDirection='column' key={item.atomical_id} justifyContent='center' alignItems='center' gap={3}>
                         {item.imageURL && (
-                            <>
+                            <Fade in={hasScrolled}>
+
                                 {/*   <Text color='whiteAlpha.800'>
                                     Index: {index}
                                 </Text>
@@ -132,10 +162,8 @@ function DataFetcher() {
                                     <img src={item.imageURL} width={"144px"} height={"144px"} />
 
                                 </a>
+                            </Fade>
 
-
-                                <Divider />
-                            </>
                         )}
                     </Flex>
                 ))}
@@ -146,6 +174,8 @@ function DataFetcher() {
                         <DrawerCloseButton />
                         <DrawerHeader color='blackAlpha.900'>About XCSS</DrawerHeader>
                         <DrawerBody color='blackAlpha.900'>
+
+                            <img src={selectedItem?.imageURL} width={"144px"} height={"144px"} style={{ paddingBottom: '1rem' }} />
                             {selectedItem && (
                                 <ItemDetails item={selectedItem} />
                             )}
@@ -153,7 +183,7 @@ function DataFetcher() {
                     </DrawerContent>
                 </DrawerOverlay>
             </Drawer>
-        </Flex >
+        </Flex>
     );
 }
 
