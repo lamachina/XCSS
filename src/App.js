@@ -15,9 +15,9 @@ const App = () => {
           <Box borderRadius="md" fontSize={fontSize} w="full" boxShadow="lg" p={5} bg="black" >
             <Heading color='whiteAlpha.900' py={'4rem'}>XCSS</Heading>
 
-            <DataFetcher />
+            {/*   <DataFetcher /> */}
 
-            {/*  <Text color='whiteAlpha.800'>
+            <Text color='whiteAlpha.800'>
               All we had to draw from. <br></br>
               Ode to the tangible moments of reality.<br></br>
               The raw taste for danger.<br></br>
@@ -27,7 +27,7 @@ const App = () => {
               Or maybe, it's all just pretentious drivel.
             </Text>
 
-            <Text textAlign='end' py={16} color='whiteAlpha.500' >MINTED OUT</Text> */}
+            <Text textAlign='end' py={16} color='whiteAlpha.500' >MINTED OUT</Text>
 
             {/* <CardSlider dataSet={data} /> */}
           </Box>
