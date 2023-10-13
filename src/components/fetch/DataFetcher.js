@@ -116,7 +116,7 @@ function DataFetcher() {
             )}
 
             <Flex w='100%' h='100%' flexWrap='wrap' gap={8} justifyContent='center' alignItems='center' p={2}>
-                {finalData.slice(0, 83).map((item, index) => (
+                {finalData.slice(0, 81).map((item, index) => (
                     <Flex flexDirection='column' key={item.atomical_id} justifyContent='center' alignItems='center' gap={3}>
                         {item.imageURL && (
                             <Fade in={isXCSSClicked}>
