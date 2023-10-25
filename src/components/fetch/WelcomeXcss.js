@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Box, Fade, Heading, Stack, Text } from '@chakra-ui/react';
+import { Box, Button, Fade, Flex, Heading, Image, Stack, Text } from '@chakra-ui/react';
 import { ArrowDownIcon } from '@chakra-ui/icons';
 
 const WelcomeSection = () => {
@@ -30,7 +30,7 @@ const WelcomeSection = () => {
                 justifyContent="center"
                 alignItems="start"
                 transition="opacity 0.7s"
-                gap={4}
+                gap={2}
                 color={'whiteAlpha.800'}
             >
 
@@ -41,19 +41,14 @@ const WelcomeSection = () => {
                 <Text fontSize={'md'} color={'grey'}>
                     Mint opened at block 811811. Mint closed at block 811822.
                 </Text>
-                <Text fontSize={'xl'} py={6}>
 
-                    Paying homage to the Atomicals Protocols launch at block 808080.
-                </Text>
-                <Text fontSize={'xl'} color={'grey'} >
-                    Discover the XCSS collection.
-                </Text>
-                <Stack display={'flex'} flexDirection='column' alignItems={'center'} w={'100%'}>
+                <Flex w={'100%'} justifyContent={'center'}>
+                    <a target='_blank' href='https://ep.atomicals.xyz/proxy/blockchain.atomicals.get_state?params=[%22eb3227db522eb4852da9005d2e61ca323d06de568b07c1ffa80c382a8d86082ai0%22]&pretty'>
+                        <Image border={"2px solid #adff2f"} maxH={'288px'} m={6} src='/xcss_hd/xcsspp.png' />
 
-                    <ArrowDownIcon color={'blackAlpha.200'} fontSize={'4xl'}></ArrowDownIcon>
-                    <ArrowDownIcon color={'blackAlpha.400'} fontSize={'4xl'}></ArrowDownIcon>
-                    <ArrowDownIcon color={'blackAlpha.600'} fontSize={'4xl'}></ArrowDownIcon>
-                </Stack>
+                    </a>
+
+                </Flex>
 
 
             </Box>

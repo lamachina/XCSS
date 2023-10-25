@@ -107,7 +107,9 @@ function DataFetcher() {
 
                 <Stack display={'flex'} alignItems={'center'}>
                     <WelcomeSection />
-                    <Button onClick={() => {
+                    <Button id='pix' variant={'ghost'} color={'greenyellow'} bg={'#292929'} sx={{
+                        _hover: { bg: "#000" }
+                    }} size={'sm'} onClick={() => {
                         setIsXCSSClicked(true);
                         fetchMultiplePages();
                         window.scrollTo(0, 0); // Scroll to the top when the button is clicked
@@ -121,12 +123,15 @@ function DataFetcher() {
                         {item.imageURL && (
                             <Fade in={isXCSSClicked}>
 
-                                {/*   <Text color='whiteAlpha.800'>
+                                <Text color='whiteAlpha.800'>
                                     Index: {index}
                                 </Text>
-                                <Text color='whiteAlpha.800'>
+
+                                {/*  <Text color='whiteAlpha.800'>
                                     {item.atomical_id}
-                                </Text> */}
+                                </Text>  */}
+
+
                                 <Text color='whiteAlpha.800'>
                                     #{item.atomical_number}
                                 </Text>
@@ -172,7 +177,7 @@ function DataFetcher() {
             <Drawer isOpen={isDrawerOpen} placement="right" onClose={closeDrawer} >
                 <DrawerOverlay>
                     <DrawerContent bg='whiteAlpha.900'>
-                        <DrawerCloseButton />
+                        <DrawerCloseButton bg={'blackAlpha.400'} />
                         <DrawerHeader color='blackAlpha.900'>About XCSS</DrawerHeader>
                         <DrawerBody color='blackAlpha.900'>
 

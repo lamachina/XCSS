@@ -1,42 +1,83 @@
-import React from 'react';
-import { Box, Text, Container, Flex, Heading, useBreakpointValue } from '@chakra-ui/react';
-import { Fade } from '@chakra-ui/transition';
-import CardSlider from './components/Cards/CardSlider';
-import data from './data/data';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import {
+  Box,
+  Avatar,
+  IconButton,
+  Flex,
+  ChakraProvider,
+  extendTheme,
+  CSSReset,
+  Center,
+  Text,
+} from '@chakra-ui/react';
+import { HamburgerIcon } from '@chakra-ui/icons';
+import './App.css';
 import DataFetcher from './components/fetch/DataFetcher';
-import DataFilter from './components/fetch/DataFilter';
-import dataMintOut from './data/mintOut';
+import NavigationDrawer from './NavigationDrawer';
+import TokenList from './components/fetch/TokenList';
+import Home from './components/Home/Home';
+import TokenRekt from './components/tokenRekt/TokenRekt';
+import LinkList from './components/fetch/LinkList';
 
-const App = () => {
-  const fontSize = useBreakpointValue({ base: "12px", md: "16px", lg: "24px" });
+const theme = extendTheme({
+  styles: {
+    global: {
+      body: {
+        bg: 'black',
+        color: 'white',
+      },
+    },
+  },
+});
+
+function App() {
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   return (
-    <Flex direction="column" alignItems="center" justifyContent="center" minH="100vh" bg="black">
-      <Container maxW="container.xl" p={4}>
-        <Fade in={true}>
-          <Box borderRadius="md" fontSize={fontSize} w="full" boxShadow="lg" bg="black" >
+    <ChakraProvider theme={theme}>
+      <Router>
+        <Flex direction="column">
+          <Flex bg="black" p={4} alignItems="center">
+            <Link to="/">
+              <Avatar src="/xcss_hd/image.png" alt="Logo" mr={2} />
+            </Link>
 
-            {/* <DataFilter data={dataMintOut} /> */}
-            <DataFetcher />
+            <Box flex={1} />
 
-            {/*  <Text color='whiteAlpha.800'>
-              All we had to draw from. <br></br>
-              Ode to the tangible moments of reality.<br></br>
-              The raw taste for danger.<br></br>
-              Pitiful reward.<br></br>
-              Indulge in the euphoria of a win suggesting that perhaps, in our relentless pursuit of excess, we might just be bound by some universal moral law. <br></br>
-              <br></br>
-              Or maybe, it's all just pretentious drivel.
-            </Text>
+            <IconButton
+              edge="end"
+              colorScheme="whiteAlpha"
+              aria-label="menu"
+              onClick={() => setIsDrawerOpen(!isDrawerOpen)}
+              icon={<HamburgerIcon />}
+            />
+          </Flex>
 
-            <Text textAlign='end' py={16} color='whiteAlpha.500' >MINTED OUT</Text> */}
+          <Box> {/* Assuming AppBar height is 64px */}
+            <Center>
+              <NavigationDrawer isOpen={isDrawerOpen} onClose={() => setIsDrawerOpen(false)} />
+            </Center>
+            <Flex justifyContent={'center'} >
 
-            {/* <CardSlider dataSet={data} /> */}
+              <Routes>
+                {/*   <Route path="/token" element={<Token />} />
+              <Route path="/nft" element={<Nft />} />
+              <Route path="/arc" element={<Home />} /> */}
+                {/*  <Route path="/terminal" element={<TokenList />} /> */}
+
+                <Route path="/" element={<Home />} />
+                <Route path="/token" element={<TokenRekt />} />
+                <Route path="/xcss" element={<DataFetcher />} />
+                <Route path="/links" element={<LinkList />} />
+              </Routes>
+            </Flex>
+
           </Box>
-        </Fade>
-      </Container>
-    </Flex>
+        </Flex>
+      </Router>
+    </ChakraProvider>
   );
-};
+}
 
 export default App;

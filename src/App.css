@@ -24,6 +24,8 @@
   color: white;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
 .App-link {
   color: #61dafb;
 }
@@ -36,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#pix {
+  font-family: 'Silkscreen', sans-serif;
 }
