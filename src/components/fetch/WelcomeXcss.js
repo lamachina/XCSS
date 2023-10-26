@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Box, Button, Fade, Flex, Heading, Image, Stack, Text } from '@chakra-ui/react';
+import { Box, Button, Fade, Flex, Heading, Image, Slide, SlideFade, Stack, Text } from '@chakra-ui/react';
 import { ArrowDownIcon } from '@chakra-ui/icons';
 
 const WelcomeSection = () => {
@@ -20,7 +20,7 @@ const WelcomeSection = () => {
     }, []);
 
     return (
-        <Fade in={true}>
+        <Fade in={true} transition={{ enter: { duration: 2 } }}>
 
             <Box p={6}
                 width="100%"
@@ -41,14 +41,14 @@ const WelcomeSection = () => {
                 <Text fontSize={'md'} color={'grey'}>
                     Mint opened at block 811811. Mint closed at block 811822.
                 </Text>
+                <Slide style={{ position: "block" }} direction='bottom' in={true} transition={{ enter: { duration: 1 } }}>
 
-                <Flex w={'100%'} justifyContent={'center'}>
-                    <a target='_blank' href='https://ep.atomicals.xyz/proxy/blockchain.atomicals.get_state?params=[%22eb3227db522eb4852da9005d2e61ca323d06de568b07c1ffa80c382a8d86082ai0%22]&pretty'>
-                        <Image border={"2px solid #adff2f"} maxH={'288px'} m={6} src='/xcss_hd/xcsspp.png' />
-
-                    </a>
-
-                </Flex>
+                    <Flex w={'100%'} justifyContent={'center'}>
+                        <a target='_blank' href='https://ep.atomicals.xyz/proxy/blockchain.atomicals.get_state?params=[%22eb3227db522eb4852da9005d2e61ca323d06de568b07c1ffa80c382a8d86082ai0%22]&pretty'>
+                            <Image border={"2px solid #adff2f"} maxH={'288px'} m={6} src='/xcss_hd/xcsspp.png' />
+                        </a>
+                    </Flex>
+                </Slide>
 
 
             </Box>

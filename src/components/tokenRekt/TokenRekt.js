@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { Box, Text, Flex, VStack, Divider, Image, List, ListItem, StackDivider, Stack } from '@chakra-ui/react';
+import Loading from '../../Loading';
 
 const TokenRekt = () => {
     const [fetchedData, setFetchedData] = useState(null);
+    const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
         fetch('https://ep.atomicals.xyz/proxy/blockchain.atomicals.get?params=[%229ba6f71c6176ef7dab6751e4b71f6e6d13694d65134935bb275d89d1f0e9fdb2i0%22]&pretty')
@@ -10,11 +12,20 @@ const TokenRekt = () => {
             .then((data) => {
                 const result = data.success ? data.response.result : null;
                 setFetchedData(result);
+                setIsLoading(false);
             })
             .catch((error) => {
                 console.error('Error fetching data:', error);
+                setIsLoading(false); // Set loading to false on error
             });
     }, []);
+
+    if (isLoading) {
+        // Show a loading screen
+        return (
+            <Loading />
+        );
+    }
 
     if (!fetchedData) {
         return null; // Return null if data is not available yet
@@ -40,10 +51,9 @@ const TokenRekt = () => {
         <Box p={4} borderRadius="md" boxShadow="lg" width="90%">
             <Stack display='flex' flexDirection={'row'} justifyContent={'space-between'}>
                 <Text id='pix' fontSize="lg" color={'greenyellow'} fontWeight="bold">
-                    $REKT Information
+                    $REKT
                 </Text>
                 <Text id='pix' fontSize="lg">#{atomical_number}</Text>
-
             </Stack>
 
             <Divider my={2} borderColor="gray.600" />
