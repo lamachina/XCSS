@@ -19,6 +19,7 @@ import TokenList from './components/fetch/TokenList';
 import Home from './components/Home/Home';
 import TokenRekt from './components/tokenRekt/TokenRekt';
 import LinkList from './components/fetch/LinkList';
+import ResearchContainer from './components/Container/ResearchContainer';
 
 const theme = extendTheme({
   styles: {
@@ -70,6 +71,7 @@ function App() {
                 <Route path="/token" element={<TokenRekt />} />
                 <Route path="/xcss" element={<DataFetcher />} />
                 <Route path="/links" element={<LinkList />} />
+                <Route path="/container" element={<ResearchContainer />} />
               </Routes>
             </Flex>
 

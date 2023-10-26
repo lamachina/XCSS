@@ -95,7 +95,17 @@ function NavigationDrawer({ isOpen, onClose, selectedItem }) {
                                 <ChevronRightIcon /> links
                             </Text>
                         </ChakraLink>
-                        {/* Add additional links as needed */}
+                        {/*  <ChakraLink
+                            as={Link}
+                            to="/container"
+                            color="white"
+                            _hover={{ color: 'yellow.300' }}
+                            onClick={closeDrawerAndLink}
+                        >
+                            <Text>
+                                <ChevronRightIcon /> container
+                            </Text>
+                        </ChakraLink> */}
 
                     </DrawerBody>
 

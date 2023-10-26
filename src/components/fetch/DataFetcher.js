@@ -122,10 +122,10 @@ function DataFetcher() {
                     <Flex flexDirection='column' key={item.atomical_id} justifyContent='center' alignItems='center' gap={3}>
                         {item.imageURL && (
                             <Fade in={isXCSSClicked}>
-
+                                {/* 
                                 <Text color='whiteAlpha.800'>
                                     Index: {index}
-                                </Text>
+                                </Text> */}
 
                                 {/*  <Text color='whiteAlpha.800'>
                                     {item.atomical_id}
