@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     Box,
     Text,
@@ -15,6 +15,15 @@ const ResearchContainer = () => {
     const [stepResult, setStepResult] = useState(null);
     const [currentPage, setCurrentPage] = useState(1);
     const itemsPerPage = 4;
+    const [imageURL, setImageURL] = useState(''); // State to store the image URL
+
+    useEffect(() => {
+        // Fetch the image URL here and set it in the state
+        if (stepResult && stepResult.state.latest) {
+            const imgu = `https://ep.atomicals.xyz/urn/${stepResult.state.latest.image}`;
+            setImageURL(imgu);
+        }
+    }, [stepResult]);
 
     const handleSearch = () => {
         // Implement your search logic here
@@ -85,9 +94,9 @@ const ResearchContainer = () => {
                         currentPage={currentPage}
                         itemsPerPage={itemsPerPage}
                         setCurrentPage={setCurrentPage}
+                        imageURL={imageURL} // Pass the image URL as a prop
                     />
                 )}
-
             </VStack>
         </Box>
     );

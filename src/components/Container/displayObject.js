@@ -1,4 +1,3 @@
-import React from 'react';
 import {
     Text,
     VStack,
@@ -7,7 +6,7 @@ import {
     HStack,
 } from '@chakra-ui/react';
 
-const DisplayObject = ({ object, currentPage, itemsPerPage, setCurrentPage }) => {
+const DisplayObject = ({ object, currentPage, itemsPerPage, setCurrentPage, imageURL }) => {
     if (!object) {
         return null;
     }
@@ -28,7 +27,6 @@ const DisplayObject = ({ object, currentPage, itemsPerPage, setCurrentPage }) =>
         return attributeValue;
     };
     /* 
-    
         const attrsArray = object.attrs.map((attr) => (
             <div key={attr.name}>
                 <Text>{attr.name}:</Text>
@@ -73,6 +71,7 @@ const DisplayObject = ({ object, currentPage, itemsPerPage, setCurrentPage }) =>
                 <Text>Attributes:</Text>
                 {/* Your existing code for displaying attributes */}
                 <Text>Image: {object.image}</Text>
+                {object.image ? <img src={imageURL} alt="Object Image" /> : 'Image Loading...'}
                 <Text>Items:</Text>
                 {itemsArray}
                 <Button colorScheme="teal" onClick={() => goToPage(currentPage - 1)}>Previous Page</Button>

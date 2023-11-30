@@ -84,7 +84,7 @@ function NavigationDrawer({ isOpen, onClose, selectedItem }) {
                                 <ChevronRightIcon /> #XCSS
                             </Text>
                         </ChakraLink>
-                        <ChakraLink
+                        {/*  <ChakraLink
                             as={Link}
                             to="/links"
                             color="white"
@@ -94,8 +94,30 @@ function NavigationDrawer({ isOpen, onClose, selectedItem }) {
                             <Text>
                                 <ChevronRightIcon /> links
                             </Text>
+                        </ChakraLink> */}
+                        <ChakraLink
+                            as={Link}
+                            to="/scientists"
+                            color="white"
+                            _hover={{ color: 'purple.300' }}
+                            onClick={closeDrawerAndLink}
+                        >
+                            <Text>
+                                <ChevronRightIcon /> scientists
+                            </Text>
                         </ChakraLink>
-                        {/*  <ChakraLink
+                        {/*   <ChakraLink
+                            as={Link}
+                            to="/collec"
+                            color="white"
+                            _hover={{ color: 'purple.300' }}
+                            onClick={closeDrawerAndLink}
+                        >
+                            <Text>
+                                <ChevronRightIcon /> collec
+                            </Text>
+                        </ChakraLink> */}
+                        {/* <ChakraLink
                             as={Link}
                             to="/container"
                             color="white"
@@ -104,6 +126,17 @@ function NavigationDrawer({ isOpen, onClose, selectedItem }) {
                         >
                             <Text>
                                 <ChevronRightIcon /> container
+                            </Text>
+                        </ChakraLink>
+                        <ChakraLink
+                            as={Link}
+                            to="/pill"
+                            color="white"
+                            _hover={{ color: 'yellow.300' }}
+                            onClick={closeDrawerAndLink}
+                        >
+                            <Text>
+                                <ChevronRightIcon /> BASED PILL
                             </Text>
                         </ChakraLink> */}
 

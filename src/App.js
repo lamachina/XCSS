@@ -20,6 +20,11 @@ import Home from './components/Home/Home';
 import TokenRekt from './components/tokenRekt/TokenRekt';
 import LinkList from './components/fetch/LinkList';
 import ResearchContainer from './components/Container/ResearchContainer';
+import LayeredSVGComponent from './components/fetch/LayeredSVGComponent';
+import MintPage from './components/Scientists/MintPage';
+import Collec from './components/collec/Collec';
+import NFTForm from './components/collec/Collec';
+import NFTList from './components/scientistsNFT/NFTList';
 
 const theme = extendTheme({
   styles: {
@@ -31,6 +36,65 @@ const theme = extendTheme({
     },
   },
 });
+
+
+const categories = [
+  [
+    '/pills/IMG_0059.svg',
+    '/pills/IMG_0060.svg',
+    '/pills/IMG_0061.svg',
+    '/pills/IMG_0062.svg',
+    '/pills/IMG_0063.svg',
+    '/pills/IMG_0064.svg',
+    '/pills/IMG_0065.svg',
+    '/pills/IMG_0066.svg',
+    '/pills/IMG_0067.svg',
+    // Add all background SVGs here
+  ],
+  [
+    '/pills/IMG_0068.svg',
+    '/pills/IMG_0069.svg',
+    '/pills/IMG_0070.svg',
+    '/pills/IMG_0071.svg',
+    '/pills/IMG_0072.svg',
+    '/pills/IMG_0073.svg',
+    '/pills/IMG_0074.svg',
+    '/pills/IMG_0075.svg',
+    // Add all blur SVGs here
+  ],
+  [
+    '/pills/IMG_0076.svg',
+    '/pills/IMG_0077.svg',
+    '/pills/IMG_0078.svg',
+    '/pills/IMG_0079.svg',
+    '/pills/IMG_0080.svg',
+  ],
+  [
+    '/pills/IMG_0080.svg',
+    '/pills/IMG_0081.svg',
+    '/pills/IMG_0082.svg',
+    '/pills/IMG_0083.svg',
+    '/pills/IMG_0084.svg',
+    '/pills/IMG_0085.svg',
+    '/pills/IMG_0086.svg',
+    '/pills/IMG_0087.svg',
+    '/pills/IMG_0088.svg',
+    // Add all coin SVGs here
+  ],
+  [
+    '/pills/IMG_0080.svg',
+    '/pills/IMG_0081.svg',
+    '/pills/IMG_0082.svg',
+    '/pills/IMG_0083.svg',
+    '/pills/IMG_0084.svg',
+    '/pills/IMG_0085.svg',
+    '/pills/IMG_0086.svg',
+    '/pills/IMG_0087.svg',
+    '/pills/IMG_0088.svg',
+    // Add all coin SVGs here
+  ],
+];
+
 
 function App() {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
@@ -69,9 +133,13 @@ function App() {
 
                 <Route path="/" element={<Home />} />
                 <Route path="/token" element={<TokenRekt />} />
+                <Route path="/scientists" element={<NFTList />} />
                 <Route path="/xcss" element={<DataFetcher />} />
-                <Route path="/links" element={<LinkList />} />
+                {/*  <Route path="/links" element={<LinkList />} />
                 <Route path="/container" element={<ResearchContainer />} />
+                <Route path="/scientists" element={<MintPage />} />
+                <Route path="/pill" element={<LayeredSVGComponent categories={categories} />} />
+                <Route path="/collec" element={<NFTForm />} /> */}
               </Routes>
             </Flex>
 

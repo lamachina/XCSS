@@ -122,23 +122,10 @@ function DataFetcher() {
                     <Flex flexDirection='column' key={item.atomical_id} justifyContent='center' alignItems='center' gap={3}>
                         {item.imageURL && (
                             <Fade in={isXCSSClicked}>
-                                {/* 
-                                <Text color='whiteAlpha.800'>
-                                    Index: {index}
-                                </Text> */}
-
-                                {/*  <Text color='whiteAlpha.800'>
-                                    {item.atomical_id}
-                                </Text>  */}
-
-
                                 <Text color='whiteAlpha.800'>
                                     #{item.atomical_number}
                                 </Text>
-                                {/* <Text color='whiteAlpha.800'>
-                                    {item.$bitwork.bitworkc}
-                                </Text> */}
-                                {/* Add conditional rendering for the icon and text */}
+
                                 {item.$bitwork.bitworkc === "808" && (
                                     <Stack direction='row' alignItems='center'>
                                         <StarIcon color='yellow.500' />
@@ -163,7 +150,6 @@ function DataFetcher() {
                                         <Text color='whiteAlpha.800'>Legendary</Text>
                                     </Stack>
                                 )}
-                                {/* You can add more conditions as needed */}
                                 <a onClick={() => openDrawer(item)}>
                                     <img src={item.imageURL} width={"144px"} height={"144px"} />
 
