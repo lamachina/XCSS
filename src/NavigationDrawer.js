@@ -84,22 +84,11 @@ function NavigationDrawer({ isOpen, onClose, selectedItem }) {
                                 <ChevronRightIcon /> #XCSS
                             </Text>
                         </ChakraLink>
-                        {/*  <ChakraLink
-                            as={Link}
-                            to="/links"
-                            color="white"
-                            _hover={{ color: 'purple.300' }}
-                            onClick={closeDrawerAndLink}
-                        >
-                            <Text>
-                                <ChevronRightIcon /> links
-                            </Text>
-                        </ChakraLink> */}
                         <ChakraLink
                             as={Link}
                             to="/scientists"
                             color="white"
-                            _hover={{ color: 'purple.300' }}
+                            _hover={{ color: 'yellow.300' }}
                             onClick={closeDrawerAndLink}
                         >
                             <Text>

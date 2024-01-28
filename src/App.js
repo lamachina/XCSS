@@ -25,12 +25,16 @@ import MintPage from './components/Scientists/MintPage';
 import Collec from './components/collec/Collec';
 import NFTForm from './components/collec/Collec';
 import NFTList from './components/scientistsNFT/NFTList';
+import HomeLab from './lab/home/HomeLab';
+import Explore from './lab/home/Explore';
+import DisplayImageBasedOnMerkleHash from './lab/home/DisplayImageBasedOnMerkleHash';
+import Gang from './components/gangrealm/Gang';
 
 const theme = extendTheme({
   styles: {
     global: {
       body: {
-        bg: 'black',
+        bg: '#001729',
         color: 'white',
       },
     },
@@ -38,62 +42,6 @@ const theme = extendTheme({
 });
 
 
-const categories = [
-  [
-    '/pills/IMG_0059.svg',
-    '/pills/IMG_0060.svg',
-    '/pills/IMG_0061.svg',
-    '/pills/IMG_0062.svg',
-    '/pills/IMG_0063.svg',
-    '/pills/IMG_0064.svg',
-    '/pills/IMG_0065.svg',
-    '/pills/IMG_0066.svg',
-    '/pills/IMG_0067.svg',
-    // Add all background SVGs here
-  ],
-  [
-    '/pills/IMG_0068.svg',
-    '/pills/IMG_0069.svg',
-    '/pills/IMG_0070.svg',
-    '/pills/IMG_0071.svg',
-    '/pills/IMG_0072.svg',
-    '/pills/IMG_0073.svg',
-    '/pills/IMG_0074.svg',
-    '/pills/IMG_0075.svg',
-    // Add all blur SVGs here
-  ],
-  [
-    '/pills/IMG_0076.svg',
-    '/pills/IMG_0077.svg',
-    '/pills/IMG_0078.svg',
-    '/pills/IMG_0079.svg',
-    '/pills/IMG_0080.svg',
-  ],
-  [
-    '/pills/IMG_0080.svg',
-    '/pills/IMG_0081.svg',
-    '/pills/IMG_0082.svg',
-    '/pills/IMG_0083.svg',
-    '/pills/IMG_0084.svg',
-    '/pills/IMG_0085.svg',
-    '/pills/IMG_0086.svg',
-    '/pills/IMG_0087.svg',
-    '/pills/IMG_0088.svg',
-    // Add all coin SVGs here
-  ],
-  [
-    '/pills/IMG_0080.svg',
-    '/pills/IMG_0081.svg',
-    '/pills/IMG_0082.svg',
-    '/pills/IMG_0083.svg',
-    '/pills/IMG_0084.svg',
-    '/pills/IMG_0085.svg',
-    '/pills/IMG_0086.svg',
-    '/pills/IMG_0087.svg',
-    '/pills/IMG_0088.svg',
-    // Add all coin SVGs here
-  ],
-];
 
 
 function App() {
@@ -135,6 +83,10 @@ function App() {
                 <Route path="/token" element={<TokenRekt />} />
                 <Route path="/scientists" element={<NFTList />} />
                 <Route path="/xcss" element={<DataFetcher />} />
+                {/* <Route path="/lab" element={<HomeLab />} /> */}
+                {/* <Route path="/explore" element={<Explore />} />
+                <Route path="/rr" element={<DisplayImageBasedOnMerkleHash />} /> */}
+                {/* <Route path="/gang" element={<Gang />} /> */}
                 {/*  <Route path="/links" element={<LinkList />} />
                 <Route path="/container" element={<ResearchContainer />} />
                 <Route path="/scientists" element={<MintPage />} />

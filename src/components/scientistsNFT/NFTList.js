@@ -2,6 +2,8 @@
 
 import React from 'react';
 import { Box, Flex, Image } from '@chakra-ui/react';
+import FilterComponent from './FilterComponent';
+import metadataList from "./generated_metadata.json"
 
 const NFTList = () => {
     const downloadJSON = async (index) => {
@@ -33,11 +35,12 @@ const NFTList = () => {
 
     return (
         <Flex wrap={'wrap'} justifyContent={'center'} gap={3} pt={8} pb={8}>
-            {images.map((image, index) => (
+            <FilterComponent metadataList={metadataList} />
+            {/*  {images.map((image, index) => (
                 <Box key={index} onClick={() => downloadJSON(index)}>
                     <Image src={image} alt={`Image ${index}`} boxSize="144px" objectFit="cover" cursor="pointer" />
                 </Box>
-            ))}
+            ))} */}
         </Flex>
     );
 };

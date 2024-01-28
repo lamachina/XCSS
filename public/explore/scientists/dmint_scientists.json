@@ -1,0 +1,47 @@
+{
+  "dmint": {
+    "v": "1",
+    "mint_height": 0,
+    "merkle": "e7e572dc28811968e3f203827ed9c71e0a1e220710f2d565b6db9afee94dd38c",
+    "immutable": true,
+    "items": 400,
+    "rules": [
+      {
+        "p": "8$",
+        "o": {
+          "5120a9519da5fead1a2e6cc803acdbd79a756f5e0eaafccae641c16e0612fb03071c": {
+            "v": 88888
+          }
+        },
+        "bitworkc": "888"
+      },
+      {
+        "p": "7$",
+        "o": {
+          "5120a9519da5fead1a2e6cc803acdbd79a756f5e0eaafccae641c16e0612fb03071c": {
+            "v": 77777
+          }
+        },
+        "bitworkc": "7777"
+      },
+      {
+        "p": "6$",
+        "o": {
+          "5120a9519da5fead1a2e6cc803acdbd79a756f5e0eaafccae641c16e0612fb03071c": {
+            "v": 66666
+          }
+        },
+        "bitworkc": "66666"
+      },
+      {
+        "p": ".*",
+        "o": {
+          "5120a9519da5fead1a2e6cc803acdbd79a756f5e0eaafccae641c16e0612fb03071c": {
+            "v": 27777
+          }
+        },
+        "bitworkc": "08080"
+      }
+    ]
+  }
+}

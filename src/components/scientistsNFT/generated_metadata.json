@@ -1,0 +1,7602 @@
+[
+    {
+        "name": "000",
+        "edition": 0,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "001",
+        "edition": 1,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "002",
+        "edition": 2,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "003",
+        "edition": 3,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "004",
+        "edition": 4,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "005",
+        "edition": 5,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "006",
+        "edition": 6,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "007",
+        "edition": 7,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "008",
+        "edition": 8,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "009",
+        "edition": 9,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "010",
+        "edition": 10,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "011",
+        "edition": 11,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "012",
+        "edition": 12,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "013",
+        "edition": 13,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "014",
+        "edition": 14,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "015",
+        "edition": 15,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "016",
+        "edition": 16,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "017",
+        "edition": 17,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "018",
+        "edition": 18,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "019",
+        "edition": 19,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "020",
+        "edition": 20,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "021",
+        "edition": 21,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "022",
+        "edition": 22,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "023",
+        "edition": 23,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "024",
+        "edition": 24,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "025",
+        "edition": 25,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "026",
+        "edition": 26,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "027",
+        "edition": 27,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "028",
+        "edition": 28,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "029",
+        "edition": 29,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "030",
+        "edition": 30,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "031",
+        "edition": 31,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "032",
+        "edition": 32,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "033",
+        "edition": 33,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "034",
+        "edition": 34,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "035",
+        "edition": 35,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "036",
+        "edition": 36,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "037",
+        "edition": 37,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "038",
+        "edition": 38,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "039",
+        "edition": 39,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "040",
+        "edition": 40,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "041",
+        "edition": 41,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "042",
+        "edition": 42,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "043",
+        "edition": 43,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "044",
+        "edition": 44,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "045",
+        "edition": 45,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "046",
+        "edition": 46,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "047",
+        "edition": 47,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "048",
+        "edition": 48,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "049",
+        "edition": 49,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "050",
+        "edition": 50,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "051",
+        "edition": 51,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "052",
+        "edition": 52,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "053",
+        "edition": 53,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "054",
+        "edition": 54,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "055",
+        "edition": 55,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "056",
+        "edition": 56,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "057",
+        "edition": 57,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Diamond laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "058",
+        "edition": 58,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "059",
+        "edition": 59,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "060",
+        "edition": 60,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "061",
+        "edition": 61,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "062",
+        "edition": 62,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "063",
+        "edition": 63,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "064",
+        "edition": 64,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "065",
+        "edition": 65,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "066",
+        "edition": 66,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "067",
+        "edition": 67,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "068",
+        "edition": 68,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "069",
+        "edition": 69,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "070",
+        "edition": 70,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "071",
+        "edition": 71,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "072",
+        "edition": 72,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "073",
+        "edition": 73,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "074",
+        "edition": 74,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "075",
+        "edition": 75,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "076",
+        "edition": 76,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "077",
+        "edition": 77,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "078",
+        "edition": 78,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "079",
+        "edition": 79,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "080",
+        "edition": 80,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "081",
+        "edition": 81,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "082",
+        "edition": 82,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "083",
+        "edition": 83,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "084",
+        "edition": 84,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "085",
+        "edition": 85,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "086",
+        "edition": 86,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "087",
+        "edition": 87,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "088",
+        "edition": 88,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "089",
+        "edition": 89,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "090",
+        "edition": 90,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "091",
+        "edition": 91,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "092",
+        "edition": 92,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "093",
+        "edition": 93,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "094",
+        "edition": 94,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "095",
+        "edition": 95,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "096",
+        "edition": 96,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "097",
+        "edition": 97,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "098",
+        "edition": 98,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "099",
+        "edition": 99,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "100",
+        "edition": 100,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "101",
+        "edition": 101,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "102",
+        "edition": 102,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "103",
+        "edition": 103,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "104",
+        "edition": 104,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "105",
+        "edition": 105,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "106",
+        "edition": 106,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "107",
+        "edition": 107,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "108",
+        "edition": 108,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "109",
+        "edition": 109,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "110",
+        "edition": 110,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "111",
+        "edition": 111,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "112",
+        "edition": 112,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "113",
+        "edition": 113,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "114",
+        "edition": 114,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "115",
+        "edition": 115,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "116",
+        "edition": 116,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "117",
+        "edition": 117,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "118",
+        "edition": 118,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "119",
+        "edition": 119,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "120",
+        "edition": 120,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "121",
+        "edition": 121,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "122",
+        "edition": 122,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "123",
+        "edition": 123,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "124",
+        "edition": 124,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "125",
+        "edition": 125,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "126",
+        "edition": 126,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "127",
+        "edition": 127,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "128",
+        "edition": 128,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "129",
+        "edition": 129,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "130",
+        "edition": 130,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "131",
+        "edition": 131,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "132",
+        "edition": 132,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "133",
+        "edition": 133,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "134",
+        "edition": 134,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "135",
+        "edition": 135,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "136",
+        "edition": 136,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "137",
+        "edition": 137,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "138",
+        "edition": 138,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "139",
+        "edition": 139,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "140",
+        "edition": 140,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "141",
+        "edition": 141,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "142",
+        "edition": 142,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "143",
+        "edition": 143,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "144",
+        "edition": 144,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "145",
+        "edition": 145,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "146",
+        "edition": 146,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "147",
+        "edition": 147,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "148",
+        "edition": 148,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "149",
+        "edition": 149,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "150",
+        "edition": 150,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "151",
+        "edition": 151,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "152",
+        "edition": 152,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "153",
+        "edition": 153,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "154",
+        "edition": 154,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "155",
+        "edition": 155,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "156",
+        "edition": 156,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Diamond laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "157",
+        "edition": 157,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "158",
+        "edition": 158,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "159",
+        "edition": 159,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "160",
+        "edition": 160,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "161",
+        "edition": 161,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "162",
+        "edition": 162,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "163",
+        "edition": 163,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "164",
+        "edition": 164,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "165",
+        "edition": 165,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "166",
+        "edition": 166,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "167",
+        "edition": 167,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "168",
+        "edition": 168,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "169",
+        "edition": 169,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "170",
+        "edition": 170,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "171",
+        "edition": 171,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "172",
+        "edition": 172,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "173",
+        "edition": 173,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "174",
+        "edition": 174,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "175",
+        "edition": 175,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "176",
+        "edition": 176,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "177",
+        "edition": 177,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "178",
+        "edition": 178,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "179",
+        "edition": 179,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "180",
+        "edition": 180,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "181",
+        "edition": 181,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "182",
+        "edition": 182,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "183",
+        "edition": 183,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "184",
+        "edition": 184,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "185",
+        "edition": 185,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "186",
+        "edition": 186,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "187",
+        "edition": 187,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "188",
+        "edition": 188,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "189",
+        "edition": 189,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "190",
+        "edition": 190,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "191",
+        "edition": 191,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "192",
+        "edition": 192,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "193",
+        "edition": 193,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "194",
+        "edition": 194,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "195",
+        "edition": 195,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "196",
+        "edition": 196,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "197",
+        "edition": 197,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "198",
+        "edition": 198,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "199",
+        "edition": 199,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "200",
+        "edition": 200,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "201",
+        "edition": 201,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "202",
+        "edition": 202,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "203",
+        "edition": 203,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "204",
+        "edition": 204,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "205",
+        "edition": 205,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "206",
+        "edition": 206,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "207",
+        "edition": 207,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "208",
+        "edition": 208,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "209",
+        "edition": 209,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "210",
+        "edition": 210,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "211",
+        "edition": 211,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "212",
+        "edition": 212,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "213",
+        "edition": 213,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "214",
+        "edition": 214,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "215",
+        "edition": 215,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "216",
+        "edition": 216,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "217",
+        "edition": 217,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "218",
+        "edition": 218,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "219",
+        "edition": 219,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "220",
+        "edition": 220,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "221",
+        "edition": 221,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "222",
+        "edition": 222,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "223",
+        "edition": 223,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "224",
+        "edition": 224,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "225",
+        "edition": 225,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "226",
+        "edition": 226,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "227",
+        "edition": 227,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "228",
+        "edition": 228,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "229",
+        "edition": 229,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "230",
+        "edition": 230,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "231",
+        "edition": 231,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "232",
+        "edition": 232,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "233",
+        "edition": 233,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "234",
+        "edition": 234,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "235",
+        "edition": 235,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "236",
+        "edition": 236,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "237",
+        "edition": 237,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "238",
+        "edition": 238,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "239",
+        "edition": 239,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "240",
+        "edition": 240,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "241",
+        "edition": 241,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "242",
+        "edition": 242,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "243",
+        "edition": 243,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "244",
+        "edition": 244,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "245",
+        "edition": 245,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "246",
+        "edition": 246,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "247",
+        "edition": 247,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "248",
+        "edition": 248,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "249",
+        "edition": 249,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "250",
+        "edition": 250,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "251",
+        "edition": 251,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "252",
+        "edition": 252,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "253",
+        "edition": 253,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "254",
+        "edition": 254,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "255",
+        "edition": 255,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "256",
+        "edition": 256,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "257",
+        "edition": 257,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "258",
+        "edition": 258,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "259",
+        "edition": 259,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "260",
+        "edition": 260,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "261",
+        "edition": 261,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "262",
+        "edition": 262,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "263",
+        "edition": 263,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "264",
+        "edition": 264,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "265",
+        "edition": 265,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "266",
+        "edition": 266,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "267",
+        "edition": 267,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "268",
+        "edition": 268,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "269",
+        "edition": 269,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "270",
+        "edition": 270,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "271",
+        "edition": 271,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "272",
+        "edition": 272,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "273",
+        "edition": 273,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "274",
+        "edition": 274,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "275",
+        "edition": 275,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "276",
+        "edition": 276,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "277",
+        "edition": 277,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Diamond laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "278",
+        "edition": 278,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "279",
+        "edition": 279,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "280",
+        "edition": 280,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "281",
+        "edition": 281,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "282",
+        "edition": 282,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "283",
+        "edition": 283,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "284",
+        "edition": 284,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "285",
+        "edition": 285,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "286",
+        "edition": 286,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "287",
+        "edition": 287,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "288",
+        "edition": 288,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "289",
+        "edition": 289,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "290",
+        "edition": 290,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "291",
+        "edition": 291,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "292",
+        "edition": 292,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "293",
+        "edition": 293,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "294",
+        "edition": 294,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "295",
+        "edition": 295,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "296",
+        "edition": 296,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "297",
+        "edition": 297,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "298",
+        "edition": 298,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "299",
+        "edition": 299,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "300",
+        "edition": 300,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "301",
+        "edition": 301,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "302",
+        "edition": 302,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "303",
+        "edition": 303,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "304",
+        "edition": 304,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "305",
+        "edition": 305,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "306",
+        "edition": 306,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "307",
+        "edition": 307,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "308",
+        "edition": 308,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "309",
+        "edition": 309,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "310",
+        "edition": 310,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "311",
+        "edition": 311,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "312",
+        "edition": 312,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "313",
+        "edition": 313,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "314",
+        "edition": 314,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "315",
+        "edition": 315,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "316",
+        "edition": 316,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "317",
+        "edition": 317,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "318",
+        "edition": 318,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "319",
+        "edition": 319,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "320",
+        "edition": 320,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "321",
+        "edition": 321,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "322",
+        "edition": 322,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "323",
+        "edition": 323,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "324",
+        "edition": 324,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "325",
+        "edition": 325,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "326",
+        "edition": 326,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "327",
+        "edition": 327,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "328",
+        "edition": 328,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "329",
+        "edition": 329,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "330",
+        "edition": 330,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "331",
+        "edition": 331,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "332",
+        "edition": 332,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "333",
+        "edition": 333,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "334",
+        "edition": 334,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "335",
+        "edition": 335,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "336",
+        "edition": 336,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "337",
+        "edition": 337,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "338",
+        "edition": 338,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "339",
+        "edition": 339,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "340",
+        "edition": 340,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "341",
+        "edition": 341,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "342",
+        "edition": 342,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "343",
+        "edition": 343,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "344",
+        "edition": 344,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "345",
+        "edition": 345,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "346",
+        "edition": 346,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "347",
+        "edition": 347,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "348",
+        "edition": 348,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "349",
+        "edition": 349,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "350",
+        "edition": 350,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "351",
+        "edition": 351,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "352",
+        "edition": 352,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "353",
+        "edition": 353,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "354",
+        "edition": 354,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "355",
+        "edition": 355,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "356",
+        "edition": 356,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "357",
+        "edition": 357,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "358",
+        "edition": 358,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "359",
+        "edition": 359,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "360",
+        "edition": 360,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "361",
+        "edition": 361,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "362",
+        "edition": 362,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "363",
+        "edition": 363,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "364",
+        "edition": 364,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "365",
+        "edition": 365,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "366",
+        "edition": 366,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "367",
+        "edition": 367,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "368",
+        "edition": 368,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "369",
+        "edition": 369,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "370",
+        "edition": 370,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "371",
+        "edition": 371,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "372",
+        "edition": 372,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "G"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "373",
+        "edition": 373,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "374",
+        "edition": 374,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "375",
+        "edition": 375,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "376",
+        "edition": 376,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "377",
+        "edition": 377,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Deadroom"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "378",
+        "edition": 378,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Monsters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "379",
+        "edition": 379,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "380",
+        "edition": 380,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "381",
+        "edition": 381,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "382",
+        "edition": 382,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "383",
+        "edition": 383,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Based crown"
+            }
+        ]
+    },
+    {
+        "name": "384",
+        "edition": 384,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "3rd Eye"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "385",
+        "edition": 385,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    },
+    {
+        "name": "386",
+        "edition": 386,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "R"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "387",
+        "edition": 387,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "388",
+        "edition": 388,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "389",
+        "edition": 389,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "The Lab"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "390",
+        "edition": 390,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "391",
+        "edition": 391,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "392",
+        "edition": 392,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "B"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Fighters"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "393",
+        "edition": 393,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Engineers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "394",
+        "edition": 394,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "One Night"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "Red laser eyes"
+            }
+        ]
+    },
+    {
+        "name": "395",
+        "edition": 395,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Alchemy2808"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "396",
+        "edition": 396,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "397",
+        "edition": 397,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Hydro"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "398",
+        "edition": 398,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Silence"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Legends"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "name": "399",
+        "edition": 399,
+        "description": "scientists",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "SciWar"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Healers"
+            },
+            {
+                "trait_type": "Bonus",
+                "value": "The Boss"
+            }
+        ]
+    }
+]

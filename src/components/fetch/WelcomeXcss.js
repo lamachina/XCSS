@@ -20,7 +20,7 @@ const WelcomeSection = () => {
     }, []);
 
     return (
-        <Fade in={true} transition={{ enter: { duration: 3 } }}>
+        <Fade in={true} transition={{ enter: { duration: 5 } }}>
 
             <Box p={6}
                 width="100%"
